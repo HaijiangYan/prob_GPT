@@ -1,0 +1,5 @@
+main.ipynb
+.ipynb_checkpoints/
+*.pptx
+**/*.Identifier
+togetherai-zhu-personal.txt
